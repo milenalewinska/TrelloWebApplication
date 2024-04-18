@@ -3,3 +3,5 @@ I have a passion for identifying glitches, bugs, and defects in software.  I hav
 I completed relevant courses in software testing, which provided me with a comprehensive understanding of software testing methodologies and tools. 
 I have actively engaged in several volunteer projects organized by Anna Pieciulko- Czyrko with Cherry- IT, that allowed me to apply my testing skills. I have hands-on experience in creating test plans, executing test cases, and identifying and reporting software bugs. 
 In January 2024 I have passed ISTQB Foundation Level exam. My goal for the future is to develop into an automation tester.
+
+In my free time I like roller skating.
