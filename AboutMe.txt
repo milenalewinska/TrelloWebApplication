@@ -1,0 +1,5 @@
+Hi, I'm Milena Lewińska. I am a beginner software tester currently looking for a first role where I can transfer my knowledge into experience. 
+I have a passion for identifying glitches, bugs, and defects in software.  I have strong analytical and problem-solving skills, attention to details. I am starting my adventure in the IT industry with the hope of a new opportunities. 
+I completed relevant courses in software testing, which provided me with a comprehensive understanding of software testing methodologies and tools. 
+I have actively engaged in several volunteer projects organized by Anna Pieciulko- Czyrko with Cherry- IT, that allowed me to apply my testing skills. I have hands-on experience in creating test plans, executing test cases, and identifying and reporting software bugs. 
+In January 2024 I have passed ISTQB Foundation Level exam. My goal for the future is to develop into an automation tester.
