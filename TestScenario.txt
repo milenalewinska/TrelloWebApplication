@@ -1,0 +1,3 @@
+Test Scenarios are created to ensure that every functionality a website or app offers is working as expected. It is best to gather input from clients, stakeholders, and developers to create real/accurate test scenarios. This helps effectively cover all possible user scenarios and enables comprehensive testing of all business flows of the software in question.
+
+Test Scenarios are required to verify the entire system’s performance from the users’ perspective. When creating them, testers need to place themselves in the users’ shoes to clarify what real-world scenarios the software will have to handle when made public.
