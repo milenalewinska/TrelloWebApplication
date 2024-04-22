@@ -1,0 +1,29 @@
+1. ID 1.01
+
+2. Name: Registration 
+
+3. Description – To verify the registration process for new users in the Trello application.
+
+4. Preconditions: 
+a. Stable internet connection.
+b. Access to the Trello application.
+
+5. Test Steps:
+a. Go to: https://trello.com/
+b. Click on the "Get Trello for free" button on the right.
+c. Clink on "Sign up".
+d. Enter valid registration details in the required fields:
+Full Name
+Email Address
+Password
+e. Click on the "Register" button to submit the registration form.
+f. Check the registered email inbox for a verification email.
+g. Click on the verification link provided in the email.
+h. Verify that a confirmation page or message appears confirming successful registration.
+
+6. Expected Results:
+After logging in, the user is redirected to the Trello dashboard/homepage.
+
+7. Testing environment: Application: Trello
+
+8. Author: Milena Lewińska
