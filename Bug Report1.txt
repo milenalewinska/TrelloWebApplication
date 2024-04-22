@@ -6,10 +6,9 @@ a. Go to: Trello.com
 b. Click on "Get Trello for free" button.
 c. Put "?@gmail.com" in empty field.
 d. Click on "Sign Up".
-
 5. Actual result: An account named "?@gmail.com" has been created.
 6. Expected Result: It is not possible to create an account with a special character in the name.
 7. Environment: Trello.com
 8. Browser+ Version: Windows 10 Home, 64-bit, Google Chrome 107.0.5304.87
 9. Author: Milena Lewińska
-10. Date: 22.04.2024r.
+10. Date: 22.04.2024r. 11:50
