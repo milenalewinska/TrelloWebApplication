@@ -1,6 +1,6 @@
 1. ID 1.01
 
-2. Name: Registration 
+2. Title: Registration 
 
 3. Description – To verify the registration process for new users in the Trello application.
 
