@@ -26,4 +26,4 @@ After logging in, the user is redirected to the Trello dashboard/homepage.
 
 7. Testing environment: Application: Trello
 
-8. Author: Milena Lewińska
+8. Created by: Milena Lewińska
