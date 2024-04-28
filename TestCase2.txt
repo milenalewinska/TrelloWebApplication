@@ -11,7 +11,7 @@ b. Access to the Trello application.
 5. Test Steps:
 a. Go to: https://trello.com/
 b. Click on the "Get Trello for free" button on the right.
-c. Clink on "Sign up".
+c. Click on "Sign up".
 d. Enter invalid registration details in the required fields:
 Full Name: Milena Lewińska
 Invalid Email Address: wrong-email.pl
