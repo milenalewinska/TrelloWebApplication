@@ -12,4 +12,4 @@ e. Click the "save" button.
 7. Environment: Trello.com
 8. Browser+ Version: Windows 10 Home, 64-bit, Google Chrome 107.0.5304.87
 9. Author: Milena Lewińska
-10. Date: 28.04.2024r. 17:30
+10. Date: 28.04.2024r. 17:40
