@@ -1,1 +1,24 @@
-ID 1.03
+1. ID 1.03
+
+2. Title: Correct sign in to an existing account. 
+
+3. Description – To verify the correct logging process for an existing user in the Trello application.
+
+4. Preconditions: 
+a. Stable internet connection.
+b. Access to the Trello application.
+
+5. Test Steps:
+a. Go to: https://trello.com/
+b. Click on the "Log in" button on the right.
+c. Enter your email in empty field.
+d. Enter correct password.
+e. Click on "Continue" button.
+
+
+6. Expected Results:
+The user has logged in to the main page.
+
+7. Testing environment: Application: Trello
+
+8. Created by: Milena Lewińska
