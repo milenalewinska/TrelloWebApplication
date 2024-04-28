@@ -1,6 +1,6 @@
 1. ID 1.02
 
-2. Title: Registration 
+2. Title: Invalid registration 
 
 3. Description – To verify the registration process for new users in the Trello application.
 
