@@ -4,7 +4,7 @@
 4. Steps to reproduce bug:
 a. Go to: Trello.com
 b. Click on "Get Trello for free" button.
-c. Put "?@gmail.com" in empty field.
+c. Put "!@gmail.com" in empty field.
 d. Click on "Sign Up".
 5. Actual result: An account named "?@gmail.com" has been created.
 6. Expected Result: It is not possible to create an account with a special character in the name.
